@@ -1,2 +1,7 @@
+Test
+Paar rida teksti
+Paar rida teksti
+Paar rida teksti
+ls
 f
 uus rida
